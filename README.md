@@ -18,4 +18,4 @@ Projeto em Java com interface de terminal para conversão de moedas utilizando u
 ## ▶️ Como usar
 1. Clonar o repositório:
 ```bash
-git clone https://github.com/Luiz54jr/meu-novo-projeto.git
+git clone https://github.com/Luiz54jr/meu-novo-projeto2.git
