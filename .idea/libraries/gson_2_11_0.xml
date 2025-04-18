@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gson-2.11.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Conversor de moedas/Dependence/gson-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Conversor de moedas/Dependence/json-20230227.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
